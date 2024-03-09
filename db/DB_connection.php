@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "db_mrf";
+$dbname = "db_reva";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
